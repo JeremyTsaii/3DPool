@@ -1,0 +1,5 @@
+Group Members:
+Jeremy Tsai and William La
+
+Our vision for the game:
+We would like to make a playable 3D game of pool/golf. It will have rules that are a combination of pool and mini golf. The user will be able to aim a stick at various colored balls and try to hit it into the end hole in a certain amount of turns. The objective of the game is to clear all of the levels. If you hit the ball into the hole in a level, you move on to the next level. Clearing all of the levels will result in a win statement displayed to the  We will implement physics to simulate pool/golf in real life, such as collisions and friction. If we have more time, we can implement a 2 player mode where the winner is decided by who used the fewest turns to hit in the balls after a set amount of levels. We can also implement more levels and also various hazards.
